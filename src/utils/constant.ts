@@ -1,0 +1,1 @@
+export const JWT_SECRET: string = "g]Z7+rVP@Dh(DRc4";
